@@ -102,7 +102,7 @@ We welcome contributions to KeyHaven! To contribute:
 
 ---
 
-## Contribution
+## Contributors
 - [Arin Dewangan](https://aboutarin.vercel.app/)
 
 ---
